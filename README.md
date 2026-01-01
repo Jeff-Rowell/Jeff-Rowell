@@ -1,4 +1,4 @@
-## Hi there 👋
+# Jeff Rowell
 
 <!--
 **Jeff-Rowell/Jeff-Rowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff-Rowell&hide=prs&show=prs_merged&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Principal Security Engineer with 9+ years experience focused on:
+- learning
+- collaboration
+- automation
+
+Currently working on secrets management for NHI at scale, integrating AppSec tools into CI/CD, and internal tooling written in Go and Python to normalize asset findings for ASPM.
+
+Experience with building and securing internal self-service Containers as a Service (CaaS) platforms on RKE, EKS, and GKE using GitOps, Ansible, Terraform, and HashiCorp Vault.
+
+OSCP, CKA & CKS certified with 4 issued patents.
