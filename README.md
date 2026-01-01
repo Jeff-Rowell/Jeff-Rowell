@@ -13,8 +13,8 @@ While my work from my job can't be shared, I am constantly trying to learn and s
 - **YASH:** while working through Stanford's compiler course, I found and fixed a [bug](https://github.com/babyraging/yash/issues/38) for a VS Code syntax highlighter for Bison/Yacc (now I use neovim btw). The bug didn't allow preceding whitespaces on lines and thus broke the syntax highlighting.
   * https://github.com/babyraging/yash/pull/39
 
-Currently working on secrets management for NHI at scale, integrating AppSec tools into CI/CD, and internal tooling written in Go and Python to normalize asset findings for ASPM.
+At my job I'm currently working on secrets management for NHI at scale, integrating AppSec tools into CI/CD, and internal tooling written in Go to normalize asset findings for ASPM.
 
-Experience with building and securing internal self-service Containers as a Service (CaaS) platforms on RKE, EKS, and GKE using GitOps, Ansible, Terraform, and HashiCorp Vault.
+Experience with building and securing internal self-service Containers as a Service (CaaS) platforms on RKE, EKS, and GKE using GitOps, Ansible, Terraform, HashiCorp Vault, PrismaCloud, CrowdStrike, and Kyverno.
 
-OSCP, CKA & CKS certified with 4 issued patents.
+OSCP, CKA & CKS certified with several issued patents.
